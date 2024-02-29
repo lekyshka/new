@@ -1,0 +1,1 @@
+/opt/nvidia/hpc_sdk/Linux_x86_64/23.11/compilers/bin/nvc++ CMakeFiles/hello_test2.dir/tests.cpp.o -o hello_test2  ../lib/libgtest_main.a ../lib/libgtest.a 
